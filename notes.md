@@ -1,4 +1,4 @@
-Problems I encoutered when doing Excel:
+Problems I encountered when doing Excel:
 
 My sum result was different than the correct one which was 19530, and then I found out I supposed to selected ‘Ottawa-Gatineau (Ontario Part)’
 rather than 'Ottawa-Gatineau'
@@ -13,7 +13,7 @@ I got variables in my global environment pane.
 
 To extract the data, I put documents <- read.csv(text = x, col.names=c("Article_ID", "Newspaper Title", "Newspaper City", "Newspaper Province", "Newspaper Country", "Year", "Month", "Day", "Article Type", "Text", "Keywords"), colClasses=rep("character", 3), sep=",", quote="")
 
-After I followed every steps, I got my final chart.
+After I followed every step, I got my final chart.
 
 Using Voyant tools
 
